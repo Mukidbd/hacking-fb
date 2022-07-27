@@ -1,4 +1,5 @@
-$ apt apt update 
+$ apt install git
+$ apt update 
 $ apt upgrade -y
 $ apt install git 
 $ apt install git python -y
