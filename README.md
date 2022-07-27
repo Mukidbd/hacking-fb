@@ -1,21 +1,10 @@
-$ apt install git $ apt install update && git  $ install python $ install python2 
+$ apt apt update 
+$ apt upgrade -y
+$ apt install git 
+$ apt install git python -y
 
+git clone https://github.com/Mukidbd/admin.git
 
+$ cd autoreport
 
-
-
-
-
-
-
-$ https://github.com/Mukidbd/admin.git
-
-apt update && apt upgrade -y
-
-apt install git python -y
-
-git clone 
-
-cd autoreport
-
-python3 ar.py
+$ python3 ar.py
